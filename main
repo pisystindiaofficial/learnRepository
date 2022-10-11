@@ -1,9 +1,9 @@
 print("Hello Pisyst by some employee, also by the owner added by naman")
 if (True):
+  print("first if confition")
   print("show true")
-  print("show true")
+
 else:
   print("show false")
 
-
-
+print("end of code")
