@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 print("Hello Pisyst by some employee, also by the owner added by naman")
-=======
-print("Hello Pisyst by some employee, also by the owner")
 if (True):
   print("show true")
->>>>>>> d2a665890e2fa2bfc1197cb399f7cabc4b205343
