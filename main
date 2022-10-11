@@ -1,1 +1,3 @@
 print("Hello Pisyst by some employee, also by the owner")
+if (True):
+  print("show true")
