@@ -1,3 +1,9 @@
 print("Hello Pisyst by some employee, also by the owner added by naman")
 if (True):
+<<<<<<< HEAD
   print("show true")
+=======
+  print("show true")
+else:
+  print("show false")
+>>>>>>> 1f0311e3caa277a2777f2098320fb3813d776f3d
